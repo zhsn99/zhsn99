@@ -8,6 +8,5 @@ I bring experience in deep learning model development, from research prototypes 
 
 ## Connect
 
-[LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/zari-h-174663174/)) | [Email](mailto:hosseini99.zari@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/zari-h-174663174/)) | [Email](mailto:hosseini99.zari@gmail.com)
 
-![Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
