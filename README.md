@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Zari 👋
 
-<!--
-**zhsn99/zhsn99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Machine Learning Engineer passionate about building AI solutions across domains. Working at the intersection of computer vision, NLP, and generative AI to solve real-world problems in healthcare and beyond.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bring experience in deep learning model development, from research prototypes to production systems. My background spans computer vision techniques like pose estimation and 3D reconstruction alongside NLP work with large language models and RAG pipelines. I'm comfortable with PyTorch, TensorFlow, and LangChain for building robust ML systems, and use Docker and Azure to deploy scalable solutions.
+
+## Connect
+
+[LinkedIn]([https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/zari-h-174663174/)) | [Email](mailto:hosseini99.zari@gmail.com)
+
+![Zara's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
